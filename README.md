@@ -14,3 +14,10 @@ Steps to add branch protection:
 * Add branch protection rule
 * Require a pull request before merging
 * Options of how strict the pull request is chosen.
+
+## Adding code to repo so the project has an application
+
+### Docker flask application
+
+- This application is written in python
+- It will be deployed on GKE
